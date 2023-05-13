@@ -1,0 +1,17 @@
+:root {
+    --bs-link-hover-color: white;
+}
+
+.bienvenidos {
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.contador {
+    text-decoration: none;
+    color: rgb(177, 171, 171);
+    display: flex;
+}
