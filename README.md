@@ -1,6 +1,6 @@
 # Curso de ReactJS -> Coderhouse 43230 
   
- ## Primera pre-entrega
+ ## Segunda pre-entrega
  ### Matias Ezequiel Carballo
  * El proyecto trabaja con Vite y ReactJS
  * Para testearlo:
