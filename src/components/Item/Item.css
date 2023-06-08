@@ -1,0 +1,25 @@
+.cardItem {
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 350px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: rgb(33, 37, 41);
+    margin: 15px;
+}
+
+.itemImagen {
+    width: 150px;
+    height: 150px;
+}
+
+.detalle {
+    text-decoration: none;
+    color: rgb(33, 37, 41);
+}
+
+.detalle:hover {
+    color: white;
+}

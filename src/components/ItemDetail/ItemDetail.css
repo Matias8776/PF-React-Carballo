@@ -1,0 +1,14 @@
+.cardItemDetail {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 250px;
+    height: 460px;
+    color: white;
+    background-color: rgb(33, 37, 41);
+    justify-content: center;
+}
+
+.informacion {
+    text-align: center;
+}

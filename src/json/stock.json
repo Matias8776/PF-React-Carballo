@@ -1,0 +1,61 @@
+[
+    {
+        "id": 1,
+        "imagen": "../src/assets/RX6600.jpg",
+        "nombre": "RX 6600",
+        "categoria": "AMD",
+        "descripcion": "Placa de video AMD Radeon 6600 8GB",
+        "precio": 140000,
+        "stock": 10
+    },
+
+    {
+        "id": 2,
+        "imagen": "../src/assets/PLACA-DE-VIDEO-AMD-RX-6600-XT-ASUS-ROG-STRIX-OC.jpeg",
+        "nombre": "RX 6600 XT",
+        "categoria": "AMD",
+        "descripcion": "Placa de video AMD Radeon 6600 XT 8GB",
+        "precio": 200000,
+        "stock": 10
+    },
+
+    {
+        "id": 3,
+        "imagen": "../src/assets/Placa-Radeon-RX-6650-XT-GAMING-OC-8G.jpeg",
+        "nombre": "RX 6650 XT",
+        "categoria": "AMD",
+        "descripcion": "Placa de video AMD Radeon 6650 XT 8GB",
+        "precio": 250000,
+        "stock": 10
+    },
+
+    {
+        "id": 4,
+        "imagen": "../src/assets/concepto-RTX2060.jpg",
+        "nombre": "RTX 2060",
+        "categoria": "NVIDIA",
+        "descripcion": "Placa De Video Geforce RTX 2060 6GB",
+        "precio": 150000,
+        "stock": 10
+    },
+
+    {
+        "id": 5,
+        "imagen": "../src/assets/LD00053RTX2060super.jpg",
+        "nombre": "RTX 2060 SUPER",
+        "categoria": "NVIDIA",
+        "descripcion": "Placa De Video Geforce RTX 2060 SUPER 8GB",
+        "precio": 175000,
+        "stock": 10
+    },
+
+    {
+        "id": 6,
+        "imagen": "../src/assets/zt-t20800f-10p_image01_0.jpg",
+        "nombre": "RTX 2080",
+        "categoria": "NVIDIA",
+        "descripcion": "Placa De Video Geforce RTX 2080 8GB",
+        "precio": 220000,
+        "stock": 10
+    }
+]

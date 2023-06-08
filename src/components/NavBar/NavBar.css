@@ -1,0 +1,10 @@
+.categoria {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.75);
+    margin-left: 50px;
+}
+
+.brand {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.75);
+}
