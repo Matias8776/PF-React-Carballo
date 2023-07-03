@@ -14,12 +14,11 @@ const NavBar = () => {
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="me-auto">
                         <NavLink to={`/categoria/AMD`} className='categoria'>AMD</NavLink>
-                        <NavLink to={`/categoria/NVIDIA`} className='categoria'>NVIDIA </NavLink>
+                        <NavLink to={`/categoria/NVIDIA`} className='categoria'>Nvidia </NavLink>
+                        <NavLink to={`/categoria/MEMORIA`} className='categoria'>Memorias RAM </NavLink>
                     </Nav>
                     <Nav>
-                        <a href="#Carrito" className="contador">
-                            <CartWidget />
-                        </a>
+                        <NavLink to={`/cart`} className='contador'><CartWidget /> </NavLink>
                     </Nav>
                 </Navbar.Collapse>
             </Container>

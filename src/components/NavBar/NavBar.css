@@ -4,7 +4,15 @@
     margin-left: 50px;
 }
 
+.categoria:hover {
+    color: grey;
+}
+
 .brand {
     text-decoration: none;
     color: rgba(255, 255, 255, 0.75);
+}
+
+.brand:hover {
+    color: grey;
 }

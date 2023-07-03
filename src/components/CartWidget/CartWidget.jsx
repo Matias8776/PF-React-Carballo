@@ -1,11 +1,12 @@
-import React from 'react'
-import './CartWidget.css'
+import { useContext } from 'react'
+import { CartContext } from '../../context/CartContext'
 
 const CartWidget = () => {
+    const { cantidadTotal } = useContext(CartContext)
     return (
-        <section className= 'carrito'>
+        <section className= 'carrito' style={{ display: cantidadTotal > 0 ? 'flex' : 'none'}}>
             <img src="../src/assets/carrito.svg" alt="carrito" />
-            <div>5</div>
+            <div>{ cantidadTotal }</div>
         </section>
     )
 }
